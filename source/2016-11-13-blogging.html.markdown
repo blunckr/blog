@@ -1,0 +1,16 @@
+---
+title: blogging
+date: 2016-11-13 02:52 UTC
+tags: code
+---
+
+# Blog about blogging
+
+Hi. This is the first time I've ever blogged. The purpose of this blog is to
+document the fun things I'm doing with technology, so why not start with
+documenting the process of creating this blog? Meta, I know. I'm going to
+attempt to limit the number of times I say 'blog' from here on out, cause it's
+already bothering me.
+
+Anyways, I'm primarily a Ruby developer. At least I claim to be, I likely spend
+more time with JS
